@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/reactodo2/static/css/main.b7c428f9.css",
+    "main.js": "/github.io/reactodo2/static/js/main.3c089473.js",
+    "index.html": "/github.io/reactodo2/index.html",
+    "main.b7c428f9.css.map": "/github.io/reactodo2/static/css/main.b7c428f9.css.map",
+    "main.3c089473.js.map": "/github.io/reactodo2/static/js/main.3c089473.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7c428f9.css",
+    "static/js/main.3c089473.js"
+  ]
+}
